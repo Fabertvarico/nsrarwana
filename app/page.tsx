@@ -209,7 +209,7 @@ const ArowanaLanding = () => {
                 controls
                 preload="metadata"
               >
-                <source src="/BUTTERFLY 2.mp4" type="video/mp4" />
+                <source src="https://youtu.be/xsk5sOy5Nhk" type="video/mp4" />
                 Your browser does not support the video tag.
               </video>
               <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/70 to-transparent p-4">
@@ -224,7 +224,7 @@ const ArowanaLanding = () => {
                 controls
                 preload="metadata"
               >
-                <source src="/copy_3E749131-0576-4AB0-9E1D-83A07A7636E0.MOV" type="video/mp4" />
+                <source src="https://youtu.be/HezOgPozQo4" type="video/mp4" />
                 Your browser does not support the video tag.
               </video>
               <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/70 to-transparent p-4">
