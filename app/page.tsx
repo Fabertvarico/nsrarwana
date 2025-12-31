@@ -135,7 +135,7 @@ const NSRArowanaLanding = () => {
               </div>
               <div className="absolute -bottom-6 -left-6 bg-red-600 p-8 rounded-xl shadow-2xl">
                 <p className="text-4xl font-serif italic text-white leading-none">Eddy</p>
-                <p className="text-[10px] uppercase tracking-widest text-red-100 mt-2">Founder & Master Breeder</p>
+                <p className="text-[10px] uppercase tracking-widest text-red-100 mt-2">Founder</p>
               </div>
             </div>
 
