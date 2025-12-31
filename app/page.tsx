@@ -24,10 +24,10 @@ const NSRArowanaLanding = () => {
   };
 
   const galleryVideos = [
-    { id: "xsk5sOy5Nhk", title: "Blood Red Premium", category: "Elite Collection" },
-    { id: "0GidTxvAPZc", title: "Super Red Champion", category: "Championship Grade" },
+    { id: "xsk5sOy5Nhk", title: "Super Red Essence", category: "Elite Collection" },
+    { id: "0GidTxvAPZc", title: "Super Red Essence", category: "Elite Collection" },
     { id: "4BAUzhVz9QI", title: "NSR Masterpiece", category: "Featured Video" },
-    { id: "0uCYa8t6-Rg", title: "Golden Red Essence", category: "Rare Specimen" },
+    { id: "0uCYa8t6-Rg", title: "Super Red Essence", category: "Rare Specimen" },
     { id: "r1M61jVS7s4", title: "Adult Super Red", category: "Export Quality" },
     { id: "rFc-Cw5cGY8", title: "Pure Kapuas Hulu Bloodline", category: "Breeder Select" },
   ];
@@ -97,7 +97,6 @@ const NSRArowanaLanding = () => {
           </h1>
           
           <p className="text-sm md:text-lg tracking-[0.2em] uppercase text-slate-300 mb-12 max-w-2xl mx-auto leading-relaxed">
-            Berpengalaman dalam Perternakan Arwana Sejak <span className="text-white font-bold border-b border-red-600">2017</span>
           </p>
 
           <div className="flex flex-col sm:flex-row gap-6 justify-center">
@@ -148,7 +147,7 @@ const NSRArowanaLanding = () => {
                 </div>
                 <h2 className="text-4xl md:text-5xl font-light text-white leading-tight">Authentic <span className="text-red-500 italic font-serif">Kapuas Hulu</span></h2>
                 <p className="text-slate-400 leading-relaxed text-lg font-light">
-                  NSR Arwana adalah peternak spesialis Arwana Super Red endemik dari Kapuas Hulu, Kalimantan Barat. Kami berkomitmen menyediakan spesimen dengan anatomi sempurna dan warna merah yang intens.
+                  NSR Arwana adalah peternak spesialis Arwana Super Red endemik dari Kapuas Hulu, Kalimantan Barat. Kami berkomitmen menyediakan spesimen dengan anatomi sempurna yang intens.
                 </p>
               </div>
               <div className="grid grid-cols-2 gap-8 border-t border-white/5 pt-12">
@@ -177,7 +176,6 @@ const NSRArowanaLanding = () => {
           <div className="grid md:grid-cols-3 gap-8">
             {[
               { title: 'Super Red', color: 'Deep Crimson', desc: 'Warna merah darah pekat dengan ring tebal.' },
-              { title: 'Chili Red', color: 'Vibrant Orange', desc: 'Merah cabai menyala dengan kilau metalik tinggi.' },
               { title: 'Butterfly', color: 'Classic Legend', desc: 'Bentuk tubuh ideal dengan genetik Kalimantan murni.' }
             ].map((item, idx) => (
               <div key={idx} className="group p-12 bg-[#0c0c0c] border border-white/5 hover:border-red-500/30 transition-all duration-500 rounded-3xl">
